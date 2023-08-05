@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cudawarped)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cudawarped&rank_icon=github&include_all_commits=true&title_color=76b900)](https://github.com/anuraghazra/github-readme-stats)
